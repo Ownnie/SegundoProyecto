@@ -1,4 +1,4 @@
-import { Dispatch, SetStateAction } from 'react'
+import { Dispatch } from 'react'
 import { OrderActions } from '../reducers/order-reducer'
 
 const tipOptions = [
